@@ -1,0 +1,4 @@
+version: 1.0
+name: AntiIPS
+main: com.ultrahstudios.AntiIPS.Main
+description: This plugins for anti IP and Domains Spam

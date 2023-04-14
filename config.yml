@@ -1,0 +1,21 @@
+# Plugin create by UltraHStudios
+# Donations https://www.paypal.com/paypalme/Esteban202a
+
+# PLACEHOLDERS
+
+# %player% for get the player send msg
+
+Messages:
+- '&a&l===================='
+- '&b&lCODE BY ULTRAHSTUDIOS'
+- ' '
+- '&cIt seems that you are trying '
+- '&cto enter the ip or domain of another '
+- '&cserver this will be saved in the server '
+- '&clogs of this one you are not saved'
+- '&a&l===================='
+
+
+
+
+SaveMSG:
